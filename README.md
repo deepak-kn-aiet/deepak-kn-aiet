@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![Deepak KN — AI Engineering Portfolio](./Deepak%20KN%20AI%20Engineering%20Portfolio.png)
 
 # Deepak KN
 
